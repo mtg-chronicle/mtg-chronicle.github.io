@@ -1,0 +1,53 @@
+[
+    {
+        "statement": "Do you know who Liu Xiang is?",
+        "author": "George Lam",
+        "backdrop": "https://images.pexels.com/photos/3763878/pexels-photo-3763878.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "statement": "No",
+        "author": "Calvin",
+        "backdrop": "https://images.pexels.com/photos/3752834/pexels-photo-3752834.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+        "statement": "任務在身,百毒不侵",
+        "author": "George Lam",
+        "date": "2016-03-11",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/germ-disease_BKGJGBMHPM.jpg"
+    },
+    {
+        "statement": "亡羊補宰",
+        "author": "George Lam",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/curious-sheep_QNQ5HNPDTJ.jpg"
+    },
+    {
+        "statement": "分隔兩地好慘架",
+        "author": "C Fu",
+        "date": "2017-07-06",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/airplane-travel_J5AQI42431.jpg"
+    },
+    {
+        "statement": "fine! program廢囉. 夠未?",
+        "author": "C Fu",
+        "date": "2017-08",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/computer-laptop_RP7FCYXZMO.jpg"
+    },
+    {
+        "statement": "要起條唔冧嘅橋要好耐",
+        "author": "George Lam",
+        "date": "2017-10-09",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/wood-bridge_7E9A7E0627.jpg"
+    },
+    {
+        "statement": "If you think like this, what do you think?",
+        "author": "Almond",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/lights-lightbulbs_YF7YOYCMKN.jpg"
+    },
+    {
+        "statement": "你而家都喺架Titanic上面,你唔好諗住置身事外.",
+        "author": "George Lam",
+        "long":true,
+        "date": "2019-02",
+        "backdrop": "https://cdn.stocksnap.io/img-thumbs/280h/yacht-ship_W7IVC5YCSJ.jpg"
+    }
+]
